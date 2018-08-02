@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PyDev/Eclipse
+.project
+.pydevproject
+
+# MacOS
+.DS_Store
